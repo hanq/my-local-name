@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- MY LOCAL NAME · baroque wax seal -->
+  <rect width="1024" height="1024" fill="#140A11"/>
+  <g fill="#D61F5C">
+    <circle cx="512" cy="512" r="300"/>
+    <circle cx="512" cy="212" r="56"/>
+    <circle cx="662" cy="252" r="56"/>
+    <circle cx="772" cy="362" r="56"/>
+    <circle cx="812" cy="512" r="56"/>
+    <circle cx="772" cy="662" r="56"/>
+    <circle cx="662" cy="772" r="56"/>
+    <circle cx="512" cy="812" r="56"/>
+    <circle cx="362" cy="772" r="56"/>
+    <circle cx="252" cy="662" r="56"/>
+    <circle cx="212" cy="512" r="56"/>
+    <circle cx="252" cy="362" r="56"/>
+    <circle cx="362" cy="252" r="56"/>
+  </g>
+  <path d="M347 505 A190 190 0 0 1 677 505" fill="none" stroke="#F7E9E4" stroke-width="64" stroke-linecap="round"/>
+  <path d="M421 547.5 A105 105 0 0 1 603 547.5" fill="none" stroke="#F7E9E4" stroke-width="64" stroke-linecap="round"/>
+  <circle cx="512" cy="600" r="34" fill="#F7E9E4"/>
+</svg>

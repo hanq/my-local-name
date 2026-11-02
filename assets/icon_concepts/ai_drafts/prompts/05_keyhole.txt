@@ -1,0 +1,6 @@
+A single full-bleed square image. Background: solid #140A11 filling the whole square.
+Subject: one baroque cartouche keyhole, an ornate carved keyhole silhouette with three concentric signal arcs and one solid dot inside its round opening; reduced to a bold simple silhouette made of 4-6 large shapes, centred and upright.
+Composition: mark occupies about 70% of the width and stays inside the central 80% safe area; generous even margins.
+Colour: exactly three colours - #140A11 background, #F7E9E4 keyhole, #FF5D8F signal arcs; no other colour.
+Finish: flat vector, crisp edges, subtle two-stop plum gradient only in the background, no outline.
+Exclusions: no text, no letters, no watermark, no border, no rounded frame, no drop shadow, no photorealistic texture, no extra objects, no scenery, no mockup, no device, no contact sheet.

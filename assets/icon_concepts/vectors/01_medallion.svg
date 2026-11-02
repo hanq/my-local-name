@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- MY LOCAL NAME · baroque medallion signal -->
+  <rect width="1024" height="1024" fill="#140A11"/>
+  <path fill="#F7E9E4" fill-rule="evenodd" d="M512 128 C604 128 676 170 712 236 C790 220 846 270 834 344 C892 388 892 470 848 512 C892 554 892 636 834 680 C846 754 790 804 712 788 C676 854 604 896 512 896 C420 896 348 854 312 788 C234 804 178 754 190 680 C132 636 132 554 176 512 C132 470 132 388 190 344 C178 270 234 220 312 236 C348 170 420 128 512 128 Z M512 310 C410 310 330 400 330 512 C330 624 410 714 512 714 C614 714 694 624 694 512 C694 400 614 310 512 310 Z"/>
+  <path d="M236 300 C190 330 184 392 222 420" fill="none" stroke="#F7E9E4" stroke-width="64" stroke-linecap="round"/>
+  <path d="M788 300 C834 330 840 392 802 420" fill="none" stroke="#F7E9E4" stroke-width="64" stroke-linecap="round"/>
+  <path d="M236 724 C190 694 184 632 222 604" fill="none" stroke="#F7E9E4" stroke-width="64" stroke-linecap="round"/>
+  <path d="M788 724 C834 694 840 632 802 604" fill="none" stroke="#F7E9E4" stroke-width="64" stroke-linecap="round"/>
+  <path d="M347 505 A190 190 0 0 1 677 505" fill="none" stroke="#FF5D8F" stroke-width="68" stroke-linecap="round"/>
+  <path d="M421 547.5 A105 105 0 0 1 603 547.5" fill="none" stroke="#FF5D8F" stroke-width="68" stroke-linecap="round"/>
+  <circle cx="512" cy="600" r="36" fill="#FF5D8F"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- MY LOCAL NAME · rococo shell -->
+  <rect width="1024" height="1024" fill="#140A11"/>
+  <path fill="#D61F5C" stroke="#F7E9E4" stroke-width="64" stroke-linejoin="round" d="M512 880 C430 840 320 750 252 620 C220 555 232 490 284 470 C292 400 348 342 412 332 C424 280 462 250 512 250 C562 250 600 280 612 332 C676 342 732 400 740 470 C792 490 804 555 772 620 C704 750 594 840 512 880 Z"/>
+  <circle cx="512" cy="820" r="42" fill="#F7E9E4"/>
+</svg>

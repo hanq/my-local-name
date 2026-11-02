@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- MY LOCAL NAME · baroque keyhole -->
+  <rect width="1024" height="1024" fill="#140A11"/>
+  <path d="M330 300 C250 270 210 330 240 390 C260 430 310 430 330 400" fill="none" stroke="#F7E9E4" stroke-width="64" stroke-linecap="round"/>
+  <path d="M694 300 C774 270 814 330 784 390 C764 430 714 430 694 400" fill="none" stroke="#F7E9E4" stroke-width="64" stroke-linecap="round"/>
+  <path fill="#F7E9E4" d="M512 160 C617 160 702 245 702 350 C702 430 655 498 590 526 L590 720 C590 780 646 805 646 850 L378 850 C378 805 434 780 434 720 L434 526 C369 498 322 430 322 350 C322 245 407 160 512 160 Z"/>
+  <path d="M392 380 A120 120 0 0 1 632 380" fill="none" stroke="#D61F5C" stroke-width="64" stroke-linecap="round"/>
+  <path d="M447 380 A65 65 0 0 1 577 380" fill="none" stroke="#D61F5C" stroke-width="64" stroke-linecap="round"/>
+  <circle cx="512" cy="380" r="30" fill="#D61F5C"/>
+</svg>

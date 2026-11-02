@@ -1,0 +1,7 @@
+A single full-bleed square image. Background: solid #140A11 with a barely visible vertical gradient.
+Subject: one baroque crown crest whose upper contour is formed by three concentric signal arcs rising from one solid dot, simplified into 3-5 bold rounded volumes, centred and upright.
+Composition: about 70% of the width, inside the central 80% safe area; generous even margins.
+Lighting: one soft top-left key light, gentle ambient occlusion, no cast shadow outside the subject.
+Colour: exactly three colours - #140A11 background, #F7E9E4 crown, #FF5D8F signal arcs; no other colour.
+Finish: clean matte 3D volumes, blunt edges, no gloss hotspot.
+Exclusions: no text, no letters, no watermark, no frame, no rounded corners, no external shadow, no scenery, no extra objects, no mockup, no photoreal detail.

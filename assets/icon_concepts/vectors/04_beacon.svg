@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- MY LOCAL NAME · tenebrism beacon -->
+  <rect width="1024" height="1024" fill="#140A11"/>
+  <path fill="#F7E9E4" d="M220 880 L220 830 L280 830 L280 800 L330 800 L330 770 L694 770 L694 800 L744 800 L744 830 L804 830 L804 880 Z"/>
+  <path fill="#F7E9E4" d="M430 770 L466 430 L558 430 L594 770 Z"/>
+  <path fill="#F7E9E4" d="M470 430 L512 380 L554 430 Z"/>
+  <circle cx="512" cy="370" r="44" fill="#F7E9E4"/>
+  <path d="M352 310 A160 160 0 0 1 672 310" fill="none" stroke="#FF5D8F" stroke-width="64" stroke-linecap="round"/>
+  <path d="M422 310 A90 90 0 0 1 602 310" fill="none" stroke="#FF5D8F" stroke-width="64" stroke-linecap="round"/>
+  <circle cx="512" cy="310" r="34" fill="#FF5D8F"/>
+</svg>

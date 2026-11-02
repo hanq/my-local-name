@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=MY LOCAL NAME
+Comment=Advertise a custom .local hostname over mDNS
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/my-local-name %u
+Terminal=false
+Type=Application
+Icon=my-local-name
+Categories=Utility;
+StartupWMClass=my-local-name
+
+ 
